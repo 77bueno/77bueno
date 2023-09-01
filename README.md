@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000cd&height=120&section=header"/>
 
+<div align="center">
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=react&preferLogin=false&Background=000000&Text=FFFFFF)](https://git.io/awesome-stats-card)
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem6.gif" width=275 />
 <br>
+</div>
 
 <div align="center">  
  
