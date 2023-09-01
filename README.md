@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000cd&height=120&section=header"/>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=react&preferLogin=false&Background=000000&Text=FFFFFF)](https://git.io/awesome-stats-card)
 
@@ -43,4 +43,4 @@
 <br></div>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000cd&height=120&section=footer"/>
