@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
-
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=blue-green&preferLogin=false&Background=000000&Text=FAFAFA&Title=DD0000&Border=DD0000&Ring=FF0000)](https://git.io/awesome-stats-card)
 <img src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
 
 </div>
