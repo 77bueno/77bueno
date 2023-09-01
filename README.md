@@ -15,7 +15,7 @@
 
 ### Conhecimentos | Ferramentas 
 <br>
-<br>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,wordpress,nodejs,figma,vscode&perline=10)](https://skillicons.dev)
   
 </div>
