@@ -6,7 +6,7 @@
 <img width="45%" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77bueno&layout=compact&hide_border=false&border_color=DD0000&title_color=DD0000&text_color=FAFAFA&bg_color=000000" />
 
 <div align="center"> 
-
+<br>
 <img src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
  
 <br>
@@ -16,10 +16,8 @@
 [![Discord](https://img.shields.io/badge/Discord-DD0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JrhtGRkUM)
 
 ### Conhecimentos | Ferramentas 
-<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,wordpress,nodejs,figma,vscode&perline=10)](https://skillicons.dev)
-  
-</div>
 
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD0000cd&height=120&section=footer"/>
