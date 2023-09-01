@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD0000cd&height=120&section=header"/>
 
-<div align="center"> 
+
  
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=blue-green&preferLogin=false&Background=000000&Text=FAFAFA&Title=DD0000&Border=DD0000&Ring=FF0000)](https://git.io/awesome-stats-card)
 <img width="50%" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77bueno&layout=compact&hide_border=false&border_color=DD0000&title_color=DD0000&text_color=FAFAFA&bg_color=000000" />
+
+<div align="center"> 
 
 <img src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
  
