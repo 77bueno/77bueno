@@ -1,17 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor+Bueno;Tenho+16+anos;Sou+de+São+Paulo,+Brasil;E+estudo+programação+no+Senac+Penha;Bem+Vindo!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=77bueno&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Victor Bueno github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77bueno&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=react&preferLogin=false&Background=000000&Text=FFFFFF)](https://git.io/awesome-stats-card)
 
 <br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=77bueno&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
  
