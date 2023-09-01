@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000cd&height=120&section=header"/>
 
-<div align="center">
+<div align="center"> 
+
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=react&preferLogin=false&Background=000000&Text=FFFFFF)](https://git.io/awesome-stats-card)
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem6.gif" width=275 />
 <br>
-</div>
-
-<div align="center">  
+ 
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_______bueno777/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/77victorbueno)
