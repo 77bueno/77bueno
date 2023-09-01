@@ -13,7 +13,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-DD0000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/77victorbueno)
 [![Discord](https://img.shields.io/badge/Discord-DD0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JrhtGRkUM)
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,figma,vscode,wordpress,nodejs&perline=10)](https://skillicons.dev)
+### Conhecimentos | Ferramentas 
+<br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,wordpress,nodejs,figma,vscode&perline=10)](https://skillicons.dev)
   
 </div>
 
