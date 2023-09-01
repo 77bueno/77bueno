@@ -5,6 +5,7 @@
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=blue-green&preferLogin=false&Background=000000&Text=FAFAFA&Title=DD0000&Border=DD0000&Ring=FF0000)](https://git.io/awesome-stats-card)
 <img src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
 
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskamdev&layout=compact&hide_border=false&border_color=DD0000&title_color=DD0000&text_color=FAFAFA&bg_color=000000" />
 </div>
 <br>
  
@@ -12,7 +13,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_______bueno777/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/77victorbueno)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JrhtGRkUM)
-
 
 
 ### Principais habilidades:
@@ -28,8 +28,8 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-### Outros conhecimentos:
 
+### Outros conhecimentos:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
