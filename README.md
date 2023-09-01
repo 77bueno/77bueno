@@ -17,7 +17,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,python&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,figma,vscode,wordpress,nodejs&perline=10)](https://skillicons.dev)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD0000cd&height=120&section=footer"/>
