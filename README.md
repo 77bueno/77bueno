@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,wordpress,figma,vscode&perline=10)](https://skillicons.dev)
 
-### Estudando nesse momento |            Irei estudar
+### Estudando nesse momento | Irei estudar
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,,python,react&perline=10)](https://skillicons.dev)
 
