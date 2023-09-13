@@ -17,5 +17,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,wordpress,figma,vscode&perline=10)](https://skillicons.dev)
 
+### Estudando nesse momento | Irei estudar
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,react&perline=10)](https://skillicons.dev)
+
+
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD0000cd&height=120&section=footer"/>
