@@ -19,7 +19,7 @@
 
 ### Estudando nesse momento | Irei estudar
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,,python,react&perline=10)](https://skillicons.dev)
 
 
 </div>
