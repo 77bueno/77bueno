@@ -11,7 +11,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-DD0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bueno0___/)
 [![Twitter](https://img.shields.io/badge/Twitter-DD0000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/77victorbueno)
-[![Discord](https://img.shields.io/badge/Discord-DD0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JrhtGRkUM)
 
 ### Conhecimentos | Ferramentas 
 
