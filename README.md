@@ -14,7 +14,7 @@
 
 ### Conhecimentos | Ferramentas 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,wordpress,figma,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,js,php,mysql,wordpress,figma,vscode&perline=10)](https://skillicons.dev)
 
 ### Estudando nesse momento
 
