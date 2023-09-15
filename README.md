@@ -16,11 +16,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,js,php,mysql,wordpress,figma,vscode&perline=10)](https://skillicons.dev)
 
-### Estudando nesse momento
+### Estudando nesse momento 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=10)](https://skillicons.dev)
 
-###  Irei estudar
+###  Irei estudar futuramente
 
 [![My Skills](https://skillicons.dev/icons?i=python,react,java,c&perline=10)](https://skillicons.dev)
 
