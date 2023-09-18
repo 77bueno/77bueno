@@ -14,7 +14,7 @@
 
 ### Conhecimentos  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,node,php,mysql&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql&perline=13)](https://skillicons.dev)
 
 ### Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=,tailwind,bootstrap,jquery,wordpress,figma,vscode&perline=13)](https://skillicons.dev)
