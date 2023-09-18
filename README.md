@@ -12,17 +12,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-DD0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bueno0___/)
 [![Twitter](https://img.shields.io/badge/Twitter-DD0000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/77victorbueno)
 
-### Conhecimentos | Ferramentas 
+### Conhecimentos  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,js,php,mysql,wordpress,figma,vscode&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=13)](https://skillicons.dev)
+
+### Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=,tailwind,bootstrap,jquery,wordpress,figma,vscode&perline=13)](https://skillicons.dev)
 
 ### Estudando nesse momento 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=10)](https://skillicons.dev)
-
-###  Irei estudar futuramente
-
-[![My Skills](https://skillicons.dev/icons?i=python,react,java,c&perline=10)](https://skillicons.dev)
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD0000cd&height=120&section=footer"/>
