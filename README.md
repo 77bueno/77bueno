@@ -4,8 +4,6 @@
  
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=github-dark&preferLogin=false&Background=000000&Text=FFFFFF&Border=0000FF&Title=0000FF&Ring=0000FF)](https://git.io/awesome-stats-card)
 
-<img src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif"/>
- 
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-0000FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bueno0___/)
