@@ -13,6 +13,7 @@
 👨‍💻 i'm learning **object orientation with php.** <br> <br>
 
 📫 my contacts are in **bio.** <br> <br>
+:chart_with_upwards_trend::round_pushpin:
  </div>
  
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=github-dark&preferLogin=false&Background=000000&Text=FFFFFF&Border=0000FF&Title=0000FF&Ring=0000FF)](https://git.io/awesome-stats-card)
