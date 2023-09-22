@@ -1,7 +1,5 @@
 <div align="center"> 
 
- <br>
- 
 - :speech_balloon: my name is victor bueno, I'm 16 years old.
 
 - :man_technologist: **i'm a **front and back-end developer.****
@@ -10,6 +8,8 @@
 
 - :mailbox: my contacts are in **bio.**
 
+ <br>
+ 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=github-dark&preferLogin=false&Background=000000&Text=FFFFFF&Border=0000FF&Title=0000FF&Ring=0000FF)](https://git.io/awesome-stats-card)
