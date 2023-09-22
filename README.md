@@ -5,7 +5,7 @@
 <div align="left"  >  
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-   
+  <br>
 💬 my name is victor bueno, I'm 16 years old. <br> <br>
 🥇 **i'm a **front and back-end developer.**** <br> <br>
 :chart_with_upwards_trend: from monday to friday, I take a technical internet computer course at senac. <br> <br>
