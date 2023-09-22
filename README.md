@@ -7,11 +7,8 @@
 
    
 💬 my name is victor bueno, I'm 16 years old. <br> <br>
-
 🥇 **i'm a **front and back-end developer.**** <br> <br>
-
 👨‍💻 i'm learning **object orientation with php.** <br> <br>
-
 📫 my contacts are in **bio.** <br> <br>
 :chart_with_upwards_trend: from monday to friday, I take a technical internet computer course at senac. <br> <br>
 :round_pushpin: and on saturdays i take a javascript course, also at senac. <br> <br>
