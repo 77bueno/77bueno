@@ -13,6 +13,7 @@
 - :mailbox: my contacts are in **bio.**
 <br>
 <br>
+
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=github-dark&preferLogin=false&Background=000000&Text=FFFFFF&Border=0000FF&Title=0000FF&Ring=0000FF)](https://git.io/awesome-stats-card)
  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77bueno&layout=compact&hide_border=false&border_color=0000FF&title_color=0000FF&text_color=FFFFFF&bg_color=000000" />
 
