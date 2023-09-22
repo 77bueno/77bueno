@@ -2,9 +2,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+<br>
+<br>
+
 - :speech_balloon: my name is victor bueno, I'm 16 years old.
 
-- :first_place: **i'm a **front and back-end developer.****
+- :man_technologist: **i'm a **front and back-end developer.****
 
 - :man_technologist: i'm learning **object orientation with php.**
 
