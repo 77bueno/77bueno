@@ -8,10 +8,10 @@
    
 💬 my name is victor bueno, I'm 16 years old. <br> <br>
 🥇 **i'm a **front and back-end developer.**** <br> <br>
-👨‍💻 i'm learning **object orientation with php.** <br> <br>
-📫 my contacts are in **bio.** <br> <br>
 :chart_with_upwards_trend: from monday to friday, I take a technical internet computer course at senac. <br> <br>
 :round_pushpin: and on saturdays i take a javascript course, also at senac. <br> <br>
+👨‍💻 i'm learning **object orientation with php.** <br> <br>
+📫 my contacts are in **bio.** <br> <br>
  </div>
  
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=github-dark&preferLogin=false&Background=000000&Text=FFFFFF&Border=0000FF&Title=0000FF&Ring=0000FF)](https://git.io/awesome-stats-card)
