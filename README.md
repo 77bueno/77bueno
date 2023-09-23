@@ -23,9 +23,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FFcd&height=120&section=header"/>
 
-### Conhecimentos  
+### Acquirements  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql&perline=13)](https://skillicons.dev)
-### Ferramentas
+### Tools
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,wordpress,figma,vscode&perline=13)](https://skillicons.dev)
 
 </div>
