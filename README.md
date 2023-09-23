@@ -3,7 +3,7 @@
 <h1>Full-Stack Developer</h1>
  
 <div align="left"  >  
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
  <br>
  
@@ -14,14 +14,14 @@
 👨‍💻 i'm learning **object orientation with php.** <br> <br>
 📫 my contacts are in **bio.** <br> <br>
 
+<br>
  </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FFcd&height=120&section=header"/>
 <h1>My Stats</h1>
- 
+
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=github-dark&preferLogin=false&Background=000000&Text=FFFFFF&Border=0000FF&Title=0000FF&Ring=0000FF)](https://git.io/awesome-stats-card)
  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77bueno&layout=compact&hide_border=false&border_color=0000FF&title_color=0000FF&text_color=FFFFFF&bg_color=000000" />
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FFcd&height=120&section=header"/>
 
 ### Acquirements  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql&perline=13)](https://skillicons.dev)
