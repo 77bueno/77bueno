@@ -24,7 +24,7 @@
  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77bueno&layout=compact&hide_border=false&border_color=0000FF&title_color=0000FF&text_color=FFFFFF&bg_color=000000" />
 
 ### Knowledges
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=13)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,wordpress,figma,vscode&perline=13)](https://skillicons.dev)
 
