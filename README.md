@@ -11,7 +11,7 @@
 🥇 **i'm a **front and back-end developer.**** <br> <br>
 :chart_with_upwards_trend: from monday to friday, I take a technical internet computer course at senac. <br> <br>
 :round_pushpin: and on saturdays i take a javascript course, also at senac. <br> <br>
-👨‍💻I am currently creating an institutional website for my course, with back-end functions.** <br> <br>
+👨‍💻I am currently creating an institutional website for my course, with back-end functions. <br> <br>
 📫 my contacts are in **bio.** <br> <br>
 
 <br>
