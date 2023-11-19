@@ -4,12 +4,12 @@
 
  
 <div align="left"  >  
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif">
+<img align="right" alt="Coding" width="600" src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif">
 
  <br>
  
 💬 my name is victor bueno, I'm 16 years old. <br> <br>
-🥇 **i'm a **front and back-end developer.**** <br> <br>
+🥇 **i'm a **full-stack developer.**** <br> <br>
 :chart_with_upwards_trend: from monday to friday, I take a technical internet computer course at senac. <br> <br>
 :round_pushpin: and on saturdays i take a javascript course, also at senac. <br> <br>
 👨‍💻 i'm currently studying React JS. my current technical qualification is developing for mobile devices. <br> <br>
