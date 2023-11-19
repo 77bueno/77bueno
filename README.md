@@ -7,16 +7,20 @@
 
  <br>
  
-💬 my name is victor bueno, I'm 16 years old. <br> <br>
+💬 my name is victor bueno, I'm 17 years old. <br> <br>
 🥇 **i'm a **full-stack developer.**** <br> <br>
 :chart_with_upwards_trend: from monday to friday, I take a technical internet computer course at senac. <br> <br>
 :round_pushpin: and on saturdays i take a javascript course, also at senac. <br> <br>
 👨‍💻 i'm currently studying React JS. my current technical qualification is developing for mobile devices. <br> <br>
+💻 i'm currently studying React JS. my current technical qualification is developing for mobile devices. <br> <br>
 📫 my contacts are in **bio.** <br> <br>
 
 <br>
  </div>
- 
+
+ <br>
+ <br>
+ <br>
  <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120"/>
 <h1>My Stats</h1>
 
