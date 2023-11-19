@@ -18,7 +18,7 @@
 <br>
  </div>
  
- ![header](https://capsule-render.vercel.app/api?type=egg&height=200&&color=#FF0000&stroke=FF0000&strokeWidth=5)
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120"/>
 <h1>My Stats</h1>
 
 
@@ -31,4 +31,4 @@
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,wordpress,figma,vscode&perline=13)](https://skillicons.dev)
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000cd&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000cd&height=120&section=footer"/>
