@@ -1,10 +1,9 @@
 <div align="center"> 
 
 <h1>Full-Stack Developer</h1>
-
  
 <div align="left"  >  
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif">
 
  <br>
  
