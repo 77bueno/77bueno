@@ -18,7 +18,7 @@
 <br>
  </div>
  
- <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120"/>
+ <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120"/>
 <h1>My Stats</h1>
 
 
