@@ -29,6 +29,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=13)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,wordpress,figma,vscode&perline=13)](https://skillicons.dev)
+### Frameworks and Libraries.
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,node,react,native&perline=13)](https://skillicons.dev)
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000cd&height=120&section=footer"/>
