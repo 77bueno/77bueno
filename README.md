@@ -4,7 +4,7 @@
 
  
 <div align="left"  >  
-<img align="right" alt="Coding" width="600" src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif">
 
  <br>
  
