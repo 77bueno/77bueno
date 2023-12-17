@@ -2,8 +2,8 @@
 
 <h1>Full-Stack Developer</h1>
  
-<div align="left"  >  
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif">
+<div align="left"  >   
+<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/02/8a/ad/028aad909f64ba9a29f94d63b5708b31.gif">
 
  <br>
  
