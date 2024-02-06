@@ -27,7 +27,7 @@
  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77bueno&layout=compact&hide_border=false&border_color=DD0000&title_color=DD0000&text_color=FAFAFA&bg_color=000000" />
 
 ### Knowledges | Frameworks and Libraries.
-[![My Skills](https://skillicons.dev/icons?i=js,php,mysql,react,nodejs,tailwind,bootstrap&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,mysql,react,nextjs,nodejs,tailwind,bootstrap&perline=9)](https://skillicons.dev)
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000cd&height=120&section=footer"/>
