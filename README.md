@@ -3,7 +3,7 @@
 <h1>Full-Stack Developer</h1>
  
 <div align="left"  >   
-<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/02/8a/ad/028aad909f64ba9a29f94d63b5708b31.gif">
+<img align="right" alt="Coding" width="450" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGViM2I3YWJpbjMybm1jMTg5M2ozOHYzeGUxbHJncXowM2MzNDFtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CyCj2Kj1avdao/giphy.gif">
 
  <br>
  
