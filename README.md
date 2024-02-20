@@ -19,7 +19,7 @@
  <br>
  <br>
  <br>
- <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120"/>
+ <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120"/>
 <h1>My Stats</h1>
 
 
@@ -33,4 +33,4 @@
  <!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true) -->
  
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000cd&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080cd&height=120&section=footer"/>
