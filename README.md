@@ -29,5 +29,8 @@
 ### Knowledges | Frameworks and Libraries.
 [![My Skills](https://skillicons.dev/icons?i=js,php,mysql,react,nextjs,nodejs,tailwind,bootstrap&perline=9)](https://skillicons.dev)
 
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=77bueno&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Victor%20Bueno%20Contribution%20Graph&line=5C0DA6&bg_color=0d1117&hide_border=true&area=true)" />
+ <!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true) -->
+ 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000cd&height=120&section=footer"/>
