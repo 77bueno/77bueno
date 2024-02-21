@@ -3,7 +3,9 @@
 <h1>Full-Stack Developer</h1>
  
 <div align="left"  >   
-<img align="right" alt="Coding" width="450" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGViM2I3YWJpbjMybm1jMTg5M2ozOHYzeGUxbHJncXowM2MzNDFtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CyCj2Kj1avdao/giphy.gif">
+<img align="right" alt="Coding" width="450" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU0NGUyZmI5eXppYWtuc242a2U0am8wYW84cGx6eG42d3kyMmdrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KTCsHtu8pEZ32/giphy.gif">
+
+
 
  <br>
  
