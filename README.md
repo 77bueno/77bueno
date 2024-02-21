@@ -23,8 +23,8 @@
 <h1>My Stats</h1>
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=blue-green&preferLogin=false&Background=000000&Text=FAFAFA&Title=DD0000&Border=DD0000&Ring=FF0000)](https://git.io/awesome-stats-card)
- <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77bueno&layout=compact&hide_border=false&border_color=DD0000&title_color=DD0000&text_color=FAFAFA&bg_color=000000" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/77bueno?cardType=github&theme=github-dark&preferLogin=false&Background=000000&Text=FFFFFFCC&Title=008FFFE1&Border=0A10FF&Ring=0A10FF)](https://git.io/awesome-stats-card)
+ <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77bueno&layout=compact&hide_border=false&border_color=0A10FF&title_color=008FFFE1&text_color=FAFAFA&bg_color=000000" />
 
 ### Knowledges | Frameworks and Libraries.
 [![My Skills](https://skillicons.dev/icons?i=js,php,mysql,react,nextjs,nodejs,tailwind,bootstrap&perline=9)](https://skillicons.dev)
