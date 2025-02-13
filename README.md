@@ -9,7 +9,7 @@
 
  <br>
  
-💬 my name is victor bueno, I'm 17 years old. <br> <br>
+💬 my name is victor bueno, I'm 18 years old. <br> <br>
 🥇 **i'm a **full-stack developer.**** <br> <br>
 :chart_with_upwards_trend: from monday to friday, I take a technical internet computer course at senac. <br> <br>
 👨‍💻 i'm currently studying React JS. my current technical qualification is developing for mobile devices. <br> <br>
