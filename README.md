@@ -1,3 +1,42 @@
+# 🌟 Olá, sou Victor Hugo Mota Bueno
+Sou um Desenvolvedor Júnior apaixonado pela tecnologia. Com formação técnica em Desenvolvimento Full-Stack pelo Senac e atualmente cursando Ciência da Computação na UNIP. 
+
+Gosto de criar, explorar, melhorar e entender como as coisas funcionam por trás das interfaces. Acredito no poder do código bem escrito e no impacto que ele pode gerar quando feito com propósito.
+
+Estou sempre em busca de evolução — tanto pessoal quanto profissional — e vejo cada projeto como uma oportunidade de crescer, testar novos caminhos e me desafiar. Gosto de trabalhar com organização, foco e criatividade, buscando sempre entregar o melhor possível..
+
+## 🚀 Objetivo Profissional
+Busco uma oportunidade na área de Desenvolvimento de Software, onde possa continuar aprendendo, resolver problemas de negócios e trabalhar com tecnologias. Tenho interesse em áreas como Front-End, Back-End, Mobile, Banco de Dados e Análise de Dados.
+
+## 👨‍💻 Tech Stack / Tecnologias 
+
+- **Linguagens:**: JavaScript, PHP, HTML5, CSS3
+- **Frameworks/Bibliotecas:**: React.js, Next.js, Node.js, React Native, Express.js, jQuery, Bootstrap, Tailwind CSS
+- **Banco de Dados:**: MySQL, Firebase
+- **Ferramentas:**:  Git, GitHub, Figma, WordPress, Pacote Office
+- **Conhecimentos Adicionais:**:  APIs RESTful, Versionamento de Código, UX/UI Design, Git Flow, Publicação de PWAs, Metodologias Ágeis (Scrum/Kanban)
+
+## 🛠️ Meus Projetos
+- **[Plataforma de Publicação de Notícias com Gerenciamento de Usuários](https://77bueno.github.io/microblog/)**: Um projeto complexo criado com HTML5, CSS3, PHP, MySQL e Bootstrap.
+- **[Plataforma Dinâmica com Next.js e Consumo de APIs](https://77bueno.github.io/petshop/)**: Desenvolvido com Next.js, Javascript, CSS, Styled-Components, Firebase e Bootstrap.
+
+## 🧠 Soft Skills
+
+- Comunicação clara
+- Organização e gestão de tempo
+- Proatividade e adaptabilidade
+- Pensamento lógico e analítico
+- Resolução de problemas
+- Trabalho em equipe
+- Aprendizado contínuo
+
+## 📬 Vamos nos conectar nas Redes!
+Se você quer entrar em contato comigo ou trocar ideias sobre tecnologia, me chama nas redes!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/77bueno/)  
+🔗 [GitHub](https://github.com/77bueno)
+
+
 <div align="center"> 
 
 <h1>Full-Stack Developer</h1>
