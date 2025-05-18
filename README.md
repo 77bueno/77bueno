@@ -44,7 +44,9 @@ Busco uma oportunidade na área de Desenvolvimento de Software, onde possa conti
 Se você quer entrar em contato comigo ou trocar ideias sobre tecnologia, me chama nas redes!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/77bueno/)  
+
 🔗 [GitHub](https://github.com/77bueno)
+
 🔗 [Discord](https://discord.gg/szkbbCxwRF)
 
 
