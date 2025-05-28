@@ -1,7 +1,15 @@
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=0A10FFFF&height=80"/>
- 
-# 🌟 Olá, sou Victor Hugo Mota Bueno
-Sou um Desenvolvedor Júnior apaixonado pela tecnologia. Com formação técnica em Desenvolvimento Full-Stack pelo Senac e atualmente cursando Ciência da Computação na UNIP. 
+
+
+ <div align="center">
+  
+# :small_blue_diamond: Olá Visitante! :small_blue_diamond:
+
+<br>
+
+</div>
+
+Sou Victor Hugo Mota Bueno, um Desenvolvedor Júnior apaixonado pela tecnologia. Com formação técnica em Desenvolvimento Full-Stack pelo Senac e atualmente cursando Ciência da Computação na UNIP. 
 
 Gosto de criar, explorar, melhorar e entender como as coisas funcionam por trás das interfaces. Acredito no poder do código bem escrito e no impacto que ele pode gerar quando feito com propósito.
 
