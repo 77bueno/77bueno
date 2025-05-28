@@ -15,7 +15,7 @@ Gosto de criar, explorar, melhorar e entender como as coisas funcionam por trás
 Estou sempre em busca de evolução — tanto pessoal quanto profissional — e vejo cada projeto como uma oportunidade de crescer, testar novos caminhos e me desafiar. Gosto de trabalhar com organização, foco e criatividade, buscando sempre entregar o melhor possível..
 
 ## 🚀 Objetivo Profissional
-Busco uma oportunidade na área de Desenvolvimento de Software, onde possa continuar aprendendo, resolver problemas de negócios e trabalhar com tecnologias. Tenho interesse em áreas como Front-End, Back-End, Mobile, Banco de Dados e Análise de Dados.
+Busco uma oportunidade na área de Desenvolvimento de Software, onde possa continuar aprendendo, resolver problemas de negócios e trabalhar com tecnologias. Tenho interesse em áreas como Front-End, Back-End, Mobile, Engenharia de Software e Análise de Dados.
 
 ## 👨‍💻 Tech Stack / Tecnologias 
 
