@@ -1,6 +1,5 @@
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=0A10FFFF&height=80"/>
 
-
  <div align="center">
   
 # :small_blue_diamond: Olá Visitante! :small_blue_diamond:
