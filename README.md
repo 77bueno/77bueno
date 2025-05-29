@@ -24,7 +24,7 @@ Busco uma oportunidade na área de Desenvolvimento de Software, onde possa conti
 - **Banco de Dados:**: MySQL, Firebase
 - **Ferramentas:**:  Power BI, Git, GitHub, Figma, WordPress, Pacote Office, Jira
 - **Conhecimentos Adicionais:**:  APIs RESTful, Versionamento de Código, UX/UI Design, Git Flow, Publicação de PWAs, Metodologias Ágeis (Scrum/Kanban)
-- - **Estou aprimorando por fora:**:  Java, Docker, Kubernetes, Jenkins, Kafka
+- **Estou aprimorando por fora:**:  Java, Docker, Kubernetes, Jenkins, Kafka
 
 <br>
 <div align="center"> 
